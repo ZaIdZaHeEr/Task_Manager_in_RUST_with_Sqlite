@@ -1,4 +1,4 @@
-# 📘 Personal Expense Pro
+# 📘 Task Manager in Rust with Sqlite DB
 
 A simple Rust-based notes and expense management application built with **SQLx** and **SQLite**.
 
@@ -9,8 +9,9 @@ A simple Rust-based notes and expense management application built with **SQLx**
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/personal_expense_pro.git
-cd personal_expense_pro
+git clone https://github.com/ZaIdZaHeEr/Task_Manager_in_RUST_with_Sqlite.git
+cd Task_Manager_in_RUST_with_Sqlite
+
 ```
 
 ### 2️⃣ Build the Project
