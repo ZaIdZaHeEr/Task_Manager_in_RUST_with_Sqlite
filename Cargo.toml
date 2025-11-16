@@ -1,5 +1,5 @@
 [package]
-name = "personal_expense_pro"
+name = "simple_task_tracker_in_rust_with_Sqlite"
 version = "0.1.0"
 edition = "2024"
 

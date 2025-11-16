@@ -34,5 +34,5 @@ async fn main() {
             _ => break,
         }
     }
-    // db::delete_table(&pool).await; //uncomment this and comment the loop to delete the table structure completely.
+    db::delete_table(&pool).await; //uncomment this and comment the loop to delete the table structure completely.
 }
